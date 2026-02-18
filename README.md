@@ -25,3 +25,6 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * Page Navigation (Buttons & Bookmarks)
 
 * Core Charting (Bar, Line, Area, and Column)
+
+
+[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
