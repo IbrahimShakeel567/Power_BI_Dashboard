@@ -7,7 +7,7 @@ Hey! This repository is a collection of Power BI dashboards I've developed. It t
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
 
 ## Data Job Dashboard 1
-
+![Dashboard Page 1](/Images/Project1.png)
 ### Skills Utilized
 * TL & Data Transformation (Power Query)
 * Star Schema Data Modeling
