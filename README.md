@@ -28,3 +28,8 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
+
+## Data Jobs Dashboard 2.0 (Single-Page Focus)
+![Dashboard Page 1](/Images/Dashboard_v2.png)
+
+[➡️ **View Full Project 1 (V2) Details (README)**](/Data_Jobs_V2/README.md)
